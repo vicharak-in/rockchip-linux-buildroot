@@ -17,4 +17,4 @@
 #include "debug.config"
 #include "powermanager.config"
 #include "test.config"
-#include "weston.config"
+#include "x11.config"
